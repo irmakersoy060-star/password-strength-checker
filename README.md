@@ -1,5 +1,9 @@
 # 🔐 Password Strength Checker
 
+
+🔗 **Live Demo:** https://password-strength-checker-xi-snowy.vercel.app/
+
+A modern web application that verifies file integrity using the SHA-256 hashing algorithm.
 A modern web application that evaluates password strength in real time. It analyzes passwords based on common security criteria and provides instant visual feedback to help users create stronger passwords.
 
 
